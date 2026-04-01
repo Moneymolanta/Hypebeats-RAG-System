@@ -1,5 +1,8 @@
 # HYPEBEATS RAG System
-
+ - A Collaboration between users 
+aadityapatil1403, agam-sidhu (Agam Sidhu), pragna9h (Pragna), Moneymolanta
+(Joel Mohammed-Paige), and kevink0908 (Kevin Kim)
+ 
 > Analyze fashion brand mentions in hip-hop lyrics and measure their impact on consumer trends using AI-powered semantic search.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
